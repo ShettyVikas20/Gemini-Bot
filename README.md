@@ -1,3 +1,2 @@
-#Gemini-Bot
-
-A chatbot which used Google Gemini-Pro
+Gemini-Bot
+Gemini-Bot is a chatbot powered by Google Gemini-Pro.
